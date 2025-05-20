@@ -187,5 +187,6 @@ This query shows the average temperature, and average precipitation for each rep
 
 ## 7. Source
 
-Dataset: https://registry.opendata.aws/noaa-gsod.
+Dataset: https://registry.opendata.aws/noaa-gsod
+
 Reference: A Day in the life of a Data Engineer (2025). https://explore.skillbuilder.aws/learn/course/14732/a-day-in-the-life-of-a-data-engineer
